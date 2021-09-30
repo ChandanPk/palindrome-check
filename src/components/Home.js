@@ -161,7 +161,8 @@ const Home = () => {
             }
             nextDate = getNextDate(nextDate);
         }
-        setDateAndDays([ctr, nextDate]);
+        // ksdhjfh
+        setDateAndDays([ctr, nextDate]); 
         if (isItPalindrome) {
             setIsItPalindrome(null);
         }
